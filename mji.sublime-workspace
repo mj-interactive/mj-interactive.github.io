@@ -1,0 +1,739 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"todosInStore"
+			],
+			[
+				"c",
+				"class"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"rg",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"r",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"sub",
+				"subfilter"
+			],
+			[
+				"on",
+				"this.myOverlay.render"
+			],
+			[
+				"Val",
+				"valueFn"
+			],
+			[
+				"new",
+				"newVal"
+			],
+			[
+				"ca",
+				"campaign"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"cam",
+				"campaign"
+			],
+			[
+				"camp",
+				"campaign"
+			],
+			[
+				"model",
+				"modelList"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"ren",
+				"renderCampaigns"
+			],
+			[
+				"sel",
+				"selectedCampaigns"
+			],
+			[
+				"mo",
+				"modalContainer"
+			],
+			[
+				"moal",
+				"modalContent"
+			],
+			[
+				"inpu",
+				"inputValue"
+			],
+			[
+				"filter",
+				"filterTemplate"
+			],
+			[
+				"_rend",
+				"_renderFilter"
+			],
+			[
+				"check",
+				"checkedCampaigns"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"_ren",
+				"_renderSelector"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"selected_items":
+		[
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 368.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/node_modules/ansi-regex/readme.md",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/templates/time_list.html",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/css/style.css",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/js/index.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/index.html",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/templates/user_menu.html",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/facebook-oauth.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/providers.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/authentication.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/server.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/root.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/common/models/time.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/user-permissions.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/common/models/time.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/js/services.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/middleware.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/client/templates/timer.html",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/user-permissions.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/boot/user-permission.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/provider.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/server/model-config.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/server/model-config.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/server/datasources.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/common/models/person.json",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/common/models/person.js",
+		"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/server/middleware.json",
+		"/Users/jieli/.bash_profile",
+		"/<add name=\"SiteSqlServer\" connectionString=\"Data S",
+		"/Users/jieli/Desktop/new-pdf",
+		"/Users/jieli/Desktop/process-pdf.sql",
+		"/Users/jieli/Desktop/server-ips",
+		"/Users/jieli/Documents/Projects/RGI/NBA/server-ips/ips",
+		"/Users/jieli/Desktop/tutor: CoreySpoon",
+		"/Users/jieli/Desktop/web-service",
+		"/Users/jieli/Documents/Projects/RGI/CPS/API/SIS/DWHS database",
+		"/Users/jieli/Documents/Projects/RGI/CPS/API/queries/sp_process.sql",
+		"/Users/jieli/VirtualBox VMs/win7/win7.webm",
+		"/Users/jieli/Documents/Projects/Sandbox/reapp/flickrapp/app/components/Home.jsx",
+		"/Users/jieli/Documents/Projects/Sandbox/reapp/flickrapp/README.md",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/components/edit-field.html",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/components/view-field.html",
+		"/Users/jieli/Documents/Projects/Sandbox/keystonejs/sydjs-site-master/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/keystonejs/sydjs-site-master/updates/0.0.1-admins.js",
+		"/Users/jieli/Documents/Projects/Sandbox/acx/demo.html",
+		"/Users/jieli/Documents/Projects/Sandbox/acx/Read Me.txt",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/data/form1.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/view1/view1.html",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/view1/view1.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/components/form.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/data/form2.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/app.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/index.html",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/components/version/version.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/karma.conf.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/components/version/version_test.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/terminal.glue",
+		"/Users/jieli/Documents/Projects/Sandbox/selenium/running-headless-selenium-with-chrome/vagrantTest.js",
+		"/Users/jieli/Documents/Projects/Sandbox/selenium/running-headless-selenium-with-chrome/test.js",
+		"/Users/jieli/Documents/Projects/Sandbox/selenium/running-headless-selenium-with-chrome/bootstrap.sh",
+		"/Users/jieli/Documents/Projects/Sandbox/selenium/running-headless-selenium-with-chrome/setup.sh",
+		"/Users/jieli/Documents/Projects/Sandbox/selenium/running-headless-selenium-with-chrome/Vagrantfile",
+		"/etc/sudoers",
+		"/private/etc/sudoers",
+		"/etc/sudoers.d",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/e2e-tests/protractor.conf.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/e2e-tests/scenarios.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/view1/view1_test.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/test/unit/controllersSpec.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed-latest/.travis.yml",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/.travis.yml",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed-latest/.jshintrc",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed-latest/.gitignore",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/.gitignore",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/test/unit/directivesSpec.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed-latest/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/config/karma.conf.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed-latest/karma.conf.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/app/view2/view2.js",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/bower.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/node_modules/bower/node_modules/mout/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/.jshintrc",
+		"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed/.bowerrc",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/lib/ionic/js/ionic-angular.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/lib/ionic/js/ionic.bundle.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/js/controllers.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/js/app.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/index.html",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/lib/ionic/js/ionic.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/README.md",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/todo2/www/templates/menu.html",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/mjTodo/www/js/app.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/mjTodo/www/js/controllers.js",
+		"/Users/jieli/Documents/Projects/Sandbox/ionic/mjTodo/www/index.html",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/test/spec/controllers/main.js",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/app/scripts/app.js",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/app/scripts/controllers/main.js",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/app/index.html",
+		"/Users/jieli/Documents/Projects/MJ/www.mj-interactive.com/jielimanyili.github.com/CNAME",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/dist/index.html",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/app/views/main.html",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/test/karma.conf.js",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/bower.json",
+		"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/Gruntfile.js",
+		"/Users/jieli/Documents/Projects/Sandbox/inuit.css-master/README.md",
+		"/Users/jieli/Documents/Projects/Sandbox/inuit.css-master/_inuit.scss",
+		"/Users/jieli/Documents/Projects/Sandbox/Style-Guide-Boilerplate-master/index.php",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/node_modules/grunt-autoprefixer/README.md",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/build/style.css",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/style.css",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/Gruntfile.js",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/package.json",
+		"/Users/jieli/Documents/Projects/Sandbox/grunt/npm-debug.log",
+		"/Users/jieli/Downloads/Pears-master/index.php",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Prefixr/Prefixr.py",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/String2LowerHyphen/String2LowerHyphen.py",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (OSX).sublime-keymap",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Prefixr/Main.sublime-menu",
+		"/Users/jieli/Library/Application Support/Sublime Text 2/Packages/Prefixr/Default (Linux).sublime-keymap",
+		"/Users/jieli/Documents/Projects/ACX/aos-web/ux/page-layouts.html",
+		"/Users/jieli/Documents/Projects/ACX/aos-web/ux/components.html",
+		"/Users/jieli/Documents/Projects/ACX/aos-web/ux/ui-elements.html",
+		"/Users/jieli/Documents/Projects/ACX/aos-web/ux/assets/less/soa-styleguide.less",
+		"/Users/jieli/Documents/Projects/ACX/aos-web/ux/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jieli/Documents/Projects/Sandbox/loopback/stopwatch/node_modules/gulp",
+			"/Users/jieli",
+			"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/server",
+			"/Users/jieli/Documents/Projects/Sandbox/loopback/hello",
+			"/Users/jieli/Documents/Projects/Sandbox/loopback/hello/server",
+			"/Users/jieli/Documents/Projects/Sandbox/loopback/hello",
+			"/Users/jieli/Documents/Projects/Sandbox/reapp/flickrapp/app",
+			"/Users/jieli/Documents/Projects/Sandbox/reapp/flickrapp",
+			"/Users/jieli/Documents/Projects/Sandbox/AngularJS/angular-seed",
+			"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo",
+			"/Users/jieli/Documents/Projects/Sandbox/yoman/mytodo/app",
+			"/Users/jieli/Documents/Projects/ACX/aos-web/ux",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/styles",
+			"/Users/jieli/Documents/Projects/Sandbox/bootstrap-3.1.0/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/style-guide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/original/styles",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/style-guide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/style-guide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/styles",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/style-guide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/styles",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/less",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/styles",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide/styles",
+			"/Users/jieli/Documents/Projects/ACX/style-guide/web/styleguide",
+			"/Users/jieli/Documents/Projects/ACX/style-guide",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/acxiom-js-library",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src/main/webapp",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/dmp-web-build-full-portrait-button",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe",
+			"/Users/jieli/Documents/Projects/ACX/pca-fe/src/main/webapp/campaign-analytics"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"compile",
+			"+ ",
+			"loopback-oracle-installer",
+			"DYLD_LIBRARY_PATH",
+			":/",
+			"error",
+			"\"db\"",
+			"connector-oracle",
+			"\"db\"",
+			"ImportUserId",
+			"Data",
+			"100036946",
+			"199",
+			"943",
+			"407",
+			"240",
+			"510",
+			"105",
+			"430",
+			"380",
+			"482",
+			"135",
+			"471",
+			"LPD_user",
+			"Error",
+			"StatusCode",
+			"Message",
+			"BODC-SVWN-SQL01",
+			"@archiveDir varchar(30)",
+			"archiveDir",
+			"archiv",
+			"\\archive\\",
+			"archive",
+			"packet_e",
+			"\\\\nbaweb01\\",
+			"nbaweb01",
+			"table_a",
+			"sequence_column",
+			"nbaweb01",
+			"50.57.40.147",
+			"50.57.40.146",
+			"50.57.40.148",
+			"50.57.124.67",
+			"184.106.91.233",
+			"ImportOrgId",
+			"students",
+			"ImportUserId",
+			"Data",
+			"HasError",
+			"Message",
+			"HasError",
+			"Message",
+			"HasError",
+			"Message",
+			"HasError",
+			"ApexApiStudentsPath",
+			"ApexApiTokenPath",
+			"ApexApiBaseUrl",
+			"ApexApiClientSecret",
+			"ApexApiClientId",
+			"ApexApiGrantType",
+			"UsersPerCall",
+			"CpsDbConnection",
+			"91.233",
+			"184.106.63.159",
+			" -H ",
+			"apex import",
+			".userid",
+			"userid",
+			"org_acl",
+			"user_sync_acl",
+			"apex_user_sync",
+			"USER_SYNC",
+			"user_sync",
+			"RoleStatus",
+			"LastName",
+			"FirstName",
+			"ImportUserId",
+			"OrgName",
+			"ImportOrgId",
+			"AccessToken",
+			"TokenType",
+			"AccessToken",
+			"ImportOrgId",
+			"LoginPw",
+			"LoginId",
+			"LoginPw",
+			"Role",
+			"Email",
+			"LastName",
+			"MiddleName",
+			"FirstName",
+			"ImportOrgId",
+			"ImportUserId",
+			"Id",
+			"m_Id",
+			" t.",
+			"jielimanyili",
+			"IsSavedToDb",
+			" t.",
+			"State",
+			"City",
+			"Address2",
+			"Address1",
+			"Dob",
+			"Phone",
+			"ContactInformation",
+			"_ContactInformation",
+			"C:\\app\\client\\jie\\product\\12.1.0\\client_1\\bin",
+			"route",
+			"UniVPN",
+			"'",
+			"id:",
+			"options:",
+			"   }  \n ",
+			"view:",
+			"type:",
+			"required:",
+			"title:",
+			"name:",
+			"name",
+			"'",
+			"html",
+			"–",
+			"gpg",
+			"″",
+			"“",
+			"”"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"AOS",
+			"src=\"assets/img/",
+			"src=\"/assets/img/",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"dimen",
+				"pca-fe/src/main/webapp/js/views/DimensionDropdownView.js"
+			],
+			[
+				"userdat",
+				"pca-fe/src/main/webapp/js/models/UserData.js"
+			],
+			[
+				"reportpa",
+				"pca-fe/src/main/webapp/js/ReportPanel.js"
+			],
+			[
+				"chartscon",
+				"pca-fe/target/pca/campaign-analytics/resources/scripts/ChartsContainer.js"
+			],
+			[
+				"analy",
+				"pca-fe/src/main/webapp/campaign-analytics/resources/scripts/AnalyticsTableWidget.js"
+			],
+			[
+				"campaignlis",
+				"pca-fe/target/pca/tests/js/views/CampaignListViewTest.js"
+			],
+			[
+				"conversionwid",
+				"pca-fe/src/main/webapp/js/ConversionsWidget.js"
+			],
+			[
+				"header.jsp",
+				"pca-fe/src/main/webapp/resources/html/header.jsp"
+			],
+			[
+				"pca",
+				"pca-fe/src/main/webapp/resources/scripts/pca.js"
+			],
+			[
+				"actool",
+				"pca-fe/acxiom-js-library/build/acx-tooltip/acx-tooltip.js"
+			],
+			[
+				"camselec",
+				"pca-fe/src/main/webapp/js/CampaignsSelector.js"
+			],
+			[
+				"pca.js",
+				"pca-fe/src/main/webapp/resources/scripts/pca.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true
+}
